@@ -8,6 +8,7 @@ namespace ConsoleApp1
 {
     public class BaseClass
     {
+        private decimal x1;
         public int X { get; set; }
         public BaseClass()
         {
